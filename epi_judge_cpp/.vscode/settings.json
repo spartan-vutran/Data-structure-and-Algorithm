@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "fstream": "cpp",
+    "stdexcept": "cpp",
+    "ios": "cpp",
+    "xiosbase": "cpp",
+    "algorithm": "cpp",
+    "compare": "cpp",
+    "iterator": "cpp",
+    "xutility": "cpp",
+    "vector": "cpp",
+    "random": "cpp",
+    "memory": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
